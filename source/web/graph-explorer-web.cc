@@ -1,6 +1,6 @@
-//  This file is part of Project Name
-//  Copyright (C) Michigan State University, 2017.
-//  Released under the MIT Software license; see doc/LICENSE
+//  This file is part of Graph Explorer
+//  Copyright (C) Charles Ofria, 2019.
+//  Released under MIT license; see LICENSE
 
 #include <iostream>
 
